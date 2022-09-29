@@ -1,0 +1,35 @@
+Algoritmo "media"
+
+Var
+
+n1,n2,n3,n4:real
+media:real
+
+
+Inicio
+
+escreval("digite o primeiro numero")
+leia(n1)
+escreval("digite o segundo numero")
+leia(n2)
+escreval("digite o terceiro numero")
+leia(N3)
+escreval("digite o quarto numero")
+leia(n4)
+media<-(n1+n2+n3+n4)/4
+escreval("a media �: ",media)
+se media =10 entao
+escreval("parabens calango")
+se media > 6 entao
+escreval ("aprovado")
+senao 6 < entao
+escreval("reprovado")
+
+
+
+
+
+fimse
+fimse
+
+Fimalgoritmo
